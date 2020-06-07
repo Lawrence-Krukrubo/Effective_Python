@@ -83,8 +83,8 @@ To follow along with these exercises, we need the following module:-
 ### Blog_Post:
 For more details about this repo, including a further explanation of the concepts in the Notebooks, kindly see links below:-
 
-* Loading Different Data Files in Python
-* [Effective Pandas: Using Chuksize for Large Datasets] (https://medium.com/towards-artificial-intelligence/efficient-pandas-using-chunksize-for-large-data-sets-c66bf3037f93)
+* [Loading Different Data Files in Python](https://medium.com/p/b6385320c0f5/edit)
+* [Effective Pandas: Using Chuksize for Large Datasets](https://medium.com/towards-artificial-intelligence/efficient-pandas-using-chunksize-for-large-data-sets-c66bf3037f93)
 
 ### License:
 The entire repo and all files and data abide under the MIT License attached in the root directory above.
