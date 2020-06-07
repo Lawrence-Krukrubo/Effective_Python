@@ -1,8 +1,8 @@
 # Effective_Python
-**Intuitive and effective Python concepts and best practices.**
+**Intuitive and effective Python concepts and processes.**
 
-This Repo explores Python Data structures. Their attributes, common use cases and methods and functions.
-There are a few Notebooks containing deails about Python conepts, objects and processes.
+This Repo explores Python Data structures. Their attributes, common use cases, methods and functions.
+It contains a few Notebooks covering specific details about Python objects and processes.
 
 ## Structure:
 This Repo contains Colab Notebooks that cover certain aspects of Python programming.
